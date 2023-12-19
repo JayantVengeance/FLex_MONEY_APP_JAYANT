@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130737716134",
+    "project_id": "flexmoneyyoga",
+    "storage_bucket": "flexmoneyyoga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130737716134:android:c391888066ef24113bed67",
+        "android_client_info": {
+          "package_name": "com.example.myapplication4321"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_tAjGXCvVlQxDTDzK6oPkHiGf3x6LDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
